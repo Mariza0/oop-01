@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1692620045989" clover="3.2.0">
+  <project timestamp="1692620045989" name="All files">
+    <metrics statements="18" coveredstatements="18" conditionals="7" coveredconditionals="7" methods="4" coveredmethods="4" elements="29" coveredelements="29" complexity="0" loc="18" ncloc="18" packages="1" files="1" classes="1"/>
+    <file name="character.js" path="/Users/nikolyazamyatin/05-classes-inheritance/01/src/js/character.js">
+      <metrics statements="18" coveredstatements="18" conditionals="7" coveredconditionals="7" methods="4" coveredmethods="4"/>
+      <line num="3" count="4" type="stmt"/>
+      <line num="4" count="4" type="stmt"/>
+      <line num="6" count="3" type="stmt"/>
+      <line num="8" count="1" type="stmt"/>
+      <line num="9" count="1" type="stmt"/>
+      <line num="10" count="1" type="stmt"/>
+      <line num="11" count="1" type="stmt"/>
+      <line num="12" count="1" type="stmt"/>
+      <line num="13" count="1" type="stmt"/>
+      <line num="17" count="4" type="cond" truecount="5" falsecount="0"/>
+      <line num="18" count="2" type="stmt"/>
+      <line num="20" count="2" type="stmt"/>
+      <line num="21" count="2" type="cond" truecount="2" falsecount="0"/>
+      <line num="22" count="1" type="stmt"/>
+      <line num="27" count="1" type="stmt"/>
+      <line num="35" count="1" type="stmt"/>
+      <line num="39" count="1" type="stmt"/>
+      <line num="47" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
