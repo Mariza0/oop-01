@@ -1,27 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1692620045989" clover="3.2.0">
-  <project timestamp="1692620045989" name="All files">
-    <metrics statements="18" coveredstatements="18" conditionals="7" coveredconditionals="7" methods="4" coveredmethods="4" elements="29" coveredelements="29" complexity="0" loc="18" ncloc="18" packages="1" files="1" classes="1"/>
-    <file name="character.js" path="/Users/nikolyazamyatin/05-classes-inheritance/01/src/js/character.js">
-      <metrics statements="18" coveredstatements="18" conditionals="7" coveredconditionals="7" methods="4" coveredmethods="4"/>
-      <line num="3" count="4" type="stmt"/>
-      <line num="4" count="4" type="stmt"/>
-      <line num="6" count="3" type="stmt"/>
+<coverage generated="1692792724174" clover="3.2.0">
+  <project timestamp="1692792724174" name="All files">
+    <metrics statements="29" coveredstatements="29" conditionals="7" coveredconditionals="7" methods="7" coveredmethods="7" elements="43" coveredelements="43" complexity="0" loc="29" ncloc="29" packages="1" files="7" classes="7"/>
+    <file name="bowerman.js" path="/Users/nikolyazamyatin/05-classes-inheritance/01/src/js/class/bowerman.js">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="6" count="1" type="stmt"/>
+      <line num="7" count="1" type="stmt"/>
       <line num="8" count="1" type="stmt"/>
+    </file>
+    <file name="character.js" path="/Users/nikolyazamyatin/05-classes-inheritance/01/src/js/class/character.js">
+      <metrics statements="11" coveredstatements="11" conditionals="7" coveredconditionals="7" methods="1" coveredmethods="1"/>
+      <line num="2" count="7" type="stmt"/>
+      <line num="5" count="10" type="cond" truecount="5" falsecount="0"/>
+      <line num="6" count="2" type="stmt"/>
+      <line num="8" count="8" type="cond" truecount="2" falsecount="0"/>
       <line num="9" count="1" type="stmt"/>
-      <line num="10" count="1" type="stmt"/>
-      <line num="11" count="1" type="stmt"/>
-      <line num="12" count="1" type="stmt"/>
-      <line num="13" count="1" type="stmt"/>
-      <line num="17" count="4" type="cond" truecount="5" falsecount="0"/>
-      <line num="18" count="2" type="stmt"/>
-      <line num="20" count="2" type="stmt"/>
-      <line num="21" count="2" type="cond" truecount="2" falsecount="0"/>
-      <line num="22" count="1" type="stmt"/>
-      <line num="27" count="1" type="stmt"/>
-      <line num="35" count="1" type="stmt"/>
-      <line num="39" count="1" type="stmt"/>
-      <line num="47" count="1" type="stmt"/>
+      <line num="11" count="7" type="stmt"/>
+      <line num="12" count="7" type="stmt"/>
+      <line num="13" count="7" type="stmt"/>
+      <line num="14" count="7" type="stmt"/>
+      <line num="15" count="7" type="stmt"/>
+      <line num="16" count="7" type="stmt"/>
+    </file>
+    <file name="daemon.js" path="/Users/nikolyazamyatin/05-classes-inheritance/01/src/js/class/daemon.js">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="6" count="1" type="stmt"/>
+      <line num="7" count="1" type="stmt"/>
+      <line num="8" count="1" type="stmt"/>
+    </file>
+    <file name="magician.js" path="/Users/nikolyazamyatin/05-classes-inheritance/01/src/js/class/magician.js">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="6" count="1" type="stmt"/>
+      <line num="7" count="1" type="stmt"/>
+      <line num="8" count="1" type="stmt"/>
+    </file>
+    <file name="swordsman.js" path="/Users/nikolyazamyatin/05-classes-inheritance/01/src/js/class/swordsman.js">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="6" count="1" type="stmt"/>
+      <line num="7" count="1" type="stmt"/>
+      <line num="8" count="1" type="stmt"/>
+    </file>
+    <file name="undead.js" path="/Users/nikolyazamyatin/05-classes-inheritance/01/src/js/class/undead.js">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="6" count="1" type="stmt"/>
+      <line num="7" count="1" type="stmt"/>
+      <line num="8" count="1" type="stmt"/>
+    </file>
+    <file name="zombie.js" path="/Users/nikolyazamyatin/05-classes-inheritance/01/src/js/class/zombie.js">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="6" count="1" type="stmt"/>
+      <line num="7" count="1" type="stmt"/>
+      <line num="8" count="1" type="stmt"/>
     </file>
   </project>
 </coverage>
